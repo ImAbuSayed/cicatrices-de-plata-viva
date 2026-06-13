@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-de-plata-viva/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cicatrices de plata viva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-viva/) |
+| **Get License** | [License this song: Cicatrices de plata viva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-viva/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos me queman, no los puedo borrar
+> Cicatrices de plata viva en la oscuridad
+> Perdiendo el control cerquita del mar
+> I want you closer, no lo vas a negar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
