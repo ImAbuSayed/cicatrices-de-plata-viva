@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-de-plata-viva/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cicatrices de plata viva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-viva/) |
+| **Get License** | [Commercial Licensing for Cicatrices de plata viva](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-viva/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7025c861dd037a647bea9c0816b4153857d47ea13abe2e2ef20fc5e0469f0edf` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
